@@ -29,6 +29,6 @@
    "message": "Client not connected with WebSocket or not found, payload not forwarded"
 }
 ```
-- POST localhost:3002/[randomURLstring]
+- POST [randomURLstring].ourdomain.com
 
 _End point for 3rd-party webhook requests_
